@@ -1,0 +1,11 @@
+.navwrapper {
+  @apply p-0 w-full bg-gray-200 dark:bg-gray-700;
+}
+
+.navmenu {
+  @apply max-w-6xl m-auto flex flex-row;
+}
+
+.menu_item {
+  @apply p-4 font-medium hover:bg-gray-100 dark:hover:bg-gray-800;
+}

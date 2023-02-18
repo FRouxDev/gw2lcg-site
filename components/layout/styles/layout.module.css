@@ -1,0 +1,11 @@
+.global_wrapper {
+  @apply h-screen;
+}
+
+.layout {
+  @apply pt-2 pb-16 lg:pb-24 px-2 max-w-6xl m-auto bg-white dark:bg-gray-800 h-full;
+}
+
+.main {
+  @apply text-gray-900 dark:text-white;
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "uuid": "1234",
+    "name": "Caithe",
+    "set": "abcdefj",
+    "type": "Héros",
+    "number": 1,
+    "sphere": "Esprit"
+  },
+  {
+    "uuid": "1236",
+    "name": "Grand-Chasse",
+    "set": "abcdefj",
+    "type": "Attachement",
+    "number": 2,
+    "sphere": "Esprit"
+  },
+  {
+    "uuid": "1334",
+    "name": "Récoltes abondantes",
+    "set": "abcdefj",
+    "type": "Événement",
+    "number": 3,
+    "sphere": "Commandement"
+  },
+  {
+    "uuid": "1337",
+    "name": "Tybalt Senestre",
+    "set": "abcdefj",
+    "type": "Allié",
+    "number": 4,
+    "sphere": "Esprit"
+  },
+  {
+    "uuid": "2234",
+    "name": "Érudite Wikki",
+    "set": "abcdefj",
+    "type": "Allié",
+    "number": 5,
+    "sphere": "Connaissance"
+  },
+  {
+    "uuid": "3234",
+    "name": "Tacticien des Veilleurs",
+    "set": "abcdefj",
+    "type": "Allié",
+    "number": 6,
+    "sphere": "Tactique"
+  },
+  {
+    "uuid": "4578",
+    "name": "Refuge de Kraitsban",
+    "set": "abcdefg",
+    "type": "Lieu",
+    "number": 1
+  },
+  {
+    "uuid": "9221",
+    "name": "Abomination trépassée",
+    "set": "abcdefg",
+    "type": "Ennemi",
+    "number": 2
+  },
+  {
+    "uuid": "8654",
+    "name": "1A - Attaque sur le Refuge",
+    "set": "abcdefg",
+    "type": "Quête",
+    "number": 3
+  },
+  {
+    "uuid": "8877",
+    "name": "Brute trépassée de Caledon",
+    "set": "abcdefh",
+    "type": "Ennemi",
+    "number": 1
+  },
+  {
+    "uuid": "5513",
+    "name": "L'ombre de Zhaïtan",
+    "set": "abcdefh",
+    "type": "Péril",
+    "number": 2
+  },
+  {
+    "uuid": "1113",
+    "name": "Étangs brumeux",
+    "set": "abcdefi",
+    "type": "Lieu",
+    "number": 1
+  },
+  {
+    "uuid": "5896",
+    "name": "Araignée des bois",
+    "set": "abcdefi",
+    "type": "Ennemi",
+    "number": 2
+  },
+  {
+    "uuid": "5555",
+    "name": "Écailleux à crête dorsale",
+    "set": "abcdefi",
+    "type": "Ennemi",
+    "number": 3
+  }
+]
